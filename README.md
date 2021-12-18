@@ -1,10 +1,10 @@
 # MongoDB_Simple_Crud
 # Functionality: 
 
-Create a new user
-Update an existing user
-Show user list
-Delete a student
+* Create a new user
+* Update an existing user
+* Show user list
+* Delete a student
 
 ## Available Scripts
 
